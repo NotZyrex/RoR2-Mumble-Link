@@ -1,0 +1,10 @@
+﻿{
+	"name": "RoR2 Mumble Link",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Risk of Rain 2 positional audio support through Mumble Link.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2108",
+		"RiskofThunder-HookGenPatcher-1.2.3"
+	]
+}
