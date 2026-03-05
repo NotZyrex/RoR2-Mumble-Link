@@ -9,10 +9,10 @@ If you have any problems with this mod or you would like to suggest a feature, s
 3. Go to Audio Output.
     * Make sure the enabled box is checked under **Positional Audio**.
     * Configure the Positional Audio settings. It is highly recommended that all players have similar/identical PA settings.
-    ![audio output](https://raw.githubusercontent.com/NotZyrex/RoR2-Mumble-Link/refs/heads/master/docs/1.png)
+    ![audio output](./docs/1.png)
 4. Go to Plugins.
     * Ensure **Link to Game and Transmit Position** is checked, and the **Link** plugin is enabled.
-    ![plugins](https://raw.githubusercontent.com/NotZyrex/RoR2-Mumble-Link/refs/heads/master/docs/2.png)
+    ![plugins](./docs/2.png)
 
 Ensure you have correctly followed these instructions, then connect to a Mumble server with your friends and start a run. If successful, you should see `Link (Risk of Rain 2) linked` in Mumble's chat logs.
 
