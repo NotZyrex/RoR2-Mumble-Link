@@ -1,6 +1,8 @@
 # RoR2 Mumble Link (Proximity Chat)
 A client-side Risk of Rain 2 mod that implements positional audio using Mumble. This means voice chat is spatialized in-game by tracking your player position.
 
+Get it on thunderstore: https://thunderstore.io/package/Zyrex/RoR2MumbleLink/
+
 If you have any problems with this mod or you would like to suggest a feature, simply open a issue on the GitHub repository or contact me in the RoR2 modding discord. My username should be `zysex`.
 
 # Setup Guide
