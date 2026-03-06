@@ -10,7 +10,7 @@ namespace RoR2MumbleLink
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "Zyrex";
         public const string PluginName = "MumbleLink";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         private MumbleLinkFile _mumble;
         private PlayerTracker _playerTracker;
